@@ -1,0 +1,5 @@
+{
+  "name": "anjali Notes App",
+  "description": "A simple, elegant, and multilingual notes application to create, edit, and manage your notes. Your data is saved locally in your browser, ensuring privacy and offline access.",
+  "requestFramePermissions": []
+}
